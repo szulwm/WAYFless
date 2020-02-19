@@ -1,10 +1,10 @@
 # WAYFless
 
-&emsp;&emsp;WAYFless 是一种通过将IDP地址组合在 URL中，避免读者在采用Shibboleth认证时必须先选择自己所在机构的方法，省去了不同 SP界面 各不相同的复杂认证步骤。
+&emsp;&emsp;WAYFless 是一种通过将IDP地址组合在 URL中，避免读者在采用[Shibboleth](http://www.shibboleth.net/)认证时必须先选择自己所在机构的方法，省去了不同 SP界面 各不相同的复杂认证步骤。
 
 &emsp;&emsp;目前支持Shibboleth的数据库中提供WAYFless Shibboleth URL的(使用时，请把URL中的“{IDP地址}”替换为本校的IDP地址，比如idp.xxx.edu.cn)如下所示。
 
-&emsp;&emsp;加入CARSI联盟的各个学校均可使用此方式，方便读者使用。
+&emsp;&emsp;加入[CARSI](https://www.carsi.edu.cn/)联盟的各个学校均可使用此方式，方便读者使用。
 
 &emsp;&emsp;本词条由深圳大学图书馆、香港中文大学(深圳)图书馆、清华大学图书馆共同维护。
 
