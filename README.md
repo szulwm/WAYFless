@@ -12,7 +12,7 @@
 ## EBSCO
     https://shibboleth.ebscohost.com/Shibboleth.sso/Login?SAMLDS=1&target=https%3A%2F%2Fshibboleth.ebscohost.com%2FShibAgent.aspx%3Fshib_returl%3Dhttps%253a%252f%252fsearch.ebscohost.com%252flogin.aspx%253fauthtype%253dshib%26IdpId%3D&entityID=https://{IDP地址}/idp/shibboleth&providerID=http://shibboleth.ebscohost.com
 ## Emerald Management
-    https://www.emerald.com/start-session?idp={IDP地址}
+    https://www.emerald.com/start-session?idp=https://{IDP地址}/idp/shibboleth
 ## Engineering Village
     https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&appReturnURL=https%3A%2F%2Fwww.engineeringvillage.com%2Fcustomer%2Fauthenticate.url%3Fauth_type%3DSHIBBOLETH
 ## ProQuest
@@ -20,7 +20,7 @@
 ## IEEE/IET ELECTRONIC LIBRARY（IEL）
     https://ieeexplore.ieee.org/servlet/wayf.jsp?entityId=https://{IDP地址}/idp/shibboleth&url=https%3A%2F%2Fieeexplore.ieee.org
 ## IOP Journals
-    https://myiopscience.iop.org/signin?origin=deeplink&entity={IDP地址}&target=https://iopscience.iop.org/
+    https://myiopscience.iop.org/signin?origin=deeplink&entity=https://{IDP地址}/idp/shibboleth&target=https://iopscience.iop.org/
 ## Nature
     https://sp.nature.com/saml/login?idp=https://{IDP地址}/idp/shibboleth&targetUrl=https://www.nature.com/nature
 ## Reaxys
