@@ -54,4 +54,4 @@
 ## Embase
     https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&appReturnURL=http%3A%2F%2Fwww.embase.com%2Fcustomer%2Fauthenticate%3Fauth_type%3DSHIBBOLETH
 ## OVID
-    https://openathens.ovid.com/secure-ssl/home.oa?idpselect=https://idp.tsinghua.edu.cn/idp/shibboleth&entityID=https://{IDP地址}/idp/shibboleth&T=JS&CSC=y&PAGE=dblist&NEW
+    https://openathens.ovid.com/secure-ssl/home.oa?idpselect=https://{IDP地址}/idp/shibboleth&entityID=https://{IDP地址}/idp/shibboleth&T=JS&CSC=y&PAGE=dblist&NEW
