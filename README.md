@@ -11,12 +11,16 @@
 # WAYFless Shibboleth URL List
 ## EBSCO
     https://shibboleth.ebscohost.com/Shibboleth.sso/Login?SAMLDS=1&target=https%3A%2F%2Fshibboleth.ebscohost.com%2FShibAgent.aspx%3Fshib_returl%3Dhttps%253a%252f%252fsearch.ebscohost.com%252flogin.aspx%253fauthtype%253dshib%26IdpId%3D&entityID=https://{IDP地址}/idp/shibboleth&providerID=http://shibboleth.ebscohost.com
+    http://search.ebscohost.com/login.aspx?authtype=ip,shib&custid={customer ID} 
+    Customer ID 需要向EBSCO获取
 ## Emerald Management
     https://www.emerald.com/start-session?idp=https://{IDP地址}/idp/shibboleth
 ## Engineering Village
     https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&appReturnURL=https%3A%2F%2Fwww.engineeringvillage.com%2Fcustomer%2Fauthenticate.url%3Fauth_type%3DSHIBBOLETH
 ## ProQuest
     https://shibboleth-sp.prod.proquest.com/Shibboleth.sso/DS?SAMLDS=1&target=https%3A%2F%2Fshibboleth-sp.prod.proquest.com%2FONE_SEARCH%2FPROD&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth
+    https://search.proquest.com/?accountid={account ID}
+    account ID 需要向ProQuest获取
 ## IEEE/IET ELECTRONIC LIBRARY（IEL）
     https://ieeexplore.ieee.org/servlet/wayf.jsp?entityId=https://{IDP地址}/idp/shibboleth&url=https%3A%2F%2Fieeexplore.ieee.org
 ## IOP Journals
