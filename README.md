@@ -47,7 +47,7 @@
 ## SpringerMaterials
     https://fsso.springer.com/federation/init?entityId=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&returnUrl=https%3A%2F%2Fmaterials.springer.com%2F
 ## Web of Science
-    https://www.webofknowledge.com/?auth=ShibbolethIdPForm&target=http%253A%252F%252Fwww.webofknowledge.com%252F%253FIsProductCode%253DYes%2526Error%253DIPError%2526PathInfo%253D%25252F%2526RouterURL%253Dhttp%25253A%25252F%25252Fwww.webofknowledge.com%25252F%2526Domain%253D.webofknowledge.com%2526Src%253DIP%2526Alias%253DWOK5%2526ShibFederation%253DChineseFederation&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth
+    https://www.webofknowledge.com/?auth=ShibbolethIdPForm&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%253A%252F%252Fwww.webofknowledge.com%252F%253FDestApp%253DUA&ShibFederation=ChineseFederation&DestApp=UA
 ## CNKI
     https://fsso.cnki.net/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https://fsso.cnki.net/secure/default.aspx
 ## JoVE
