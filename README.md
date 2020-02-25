@@ -58,3 +58,6 @@
     https://openathens.ovid.com/secure-ssl/home.oa?idpselect=https://{IDP地址}/idp/shibboleth&entityID=https://{IDP地址}/idp/shibboleth&T=JS&CSC=y&PAGE=dblist&NEW
 ## Wiley
     https://onlinelibrary.wiley.com/action/ssostart?idp=https://{IDP地址}/idp/shibboleth&redirectUri=https://onlinelibrary.wiley.com/
+## Cambridge
+    https://www.cambridge.org/core/idp/{customer ID}
+    customer ID 需要向 Cambridge 获取
