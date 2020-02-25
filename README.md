@@ -59,5 +59,8 @@
 ## Wiley
     https://onlinelibrary.wiley.com/action/ssostart?idp=https://{IDP地址}/idp/shibboleth&redirectUri=https://onlinelibrary.wiley.com/
 ## Cambridge
+### 方式1（官方提供）
     https://www.cambridge.org/core/idp/{customer ID}
     customer ID 需要向 Cambridge 获取
+### 方式2
+    https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https://{IDP地址}/idp/shibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth
