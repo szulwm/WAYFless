@@ -19,7 +19,7 @@
 ## Emerald Management
     https://www.emerald.com/start-session?idp=https://{IDP地址}/idp/shibboleth
 ## Engineering Village
-    https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&appReturnURL=https%3A%2F%2Fwww.engineeringvillage.com%2Fcustomer%2Fauthenticate.url%3Fauth_type%3DSHIBBOLETH
+    https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&appReturnURL=https%3A%2F%2Fwww.engineeringvillage.com%2Fsearch%2Fquick.url
 ## ProQuest
 ### 方式1
     https://shibboleth-sp.prod.proquest.com/Shibboleth.sso/DS?SAMLDS=1&target=https%3A%2F%2Fshibboleth-sp.prod.proquest.com%2FONE_SEARCH%2FPROD&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth
@@ -33,7 +33,7 @@
 ## Nature
     https://sp.nature.com/saml/login?idp=https://{IDP地址}/idp/shibboleth&targetUrl=https://www.nature.com/nature
 ## Reaxys
-    https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https://{IDP地址}/idp/shibboleth&appReturnURL=https%3A%2F%2Fwww.reaxys.com%2Fservices%2Foauth%2Fshibboleth-sso
+    https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&appReturnURL=https%3A%2F%2Fwww.reaxys.com%2F%23%2Fsearch%2Fquick
 ## Royal Society of Chemistry
     https://www.rsc.org/rsc-id/account/checkfederatedaccess?instituteurl=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&returnurl=https%3A%2F%2Fpubs.rsc.org
 ## ScienceDirect
