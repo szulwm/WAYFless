@@ -59,6 +59,7 @@
 ## Wiley
     https://onlinelibrary.wiley.com/action/ssostart?idp=https://{IDP地址}/idp/shibboleth&redirectUri=https://onlinelibrary.wiley.com/
 ## Cambridge
+注意，两种方式有时候认证通过后仍然会出现选择机构的界面，目前数据库商反馈说短时间内无法解决。
 ### 方式1（官方提供）
     https://www.cambridge.org/core/idp/{customer ID}
     customer ID 需要向 Cambridge 获取
