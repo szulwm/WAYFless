@@ -69,3 +69,5 @@
     https://shibboleth2sp.sams2.oup.com/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https://shibboleth2sp.sams2.oup.com/shib?dest=https%3A%2F%2Facademic.oup.com%2FSHIBBOLETH%3Fdest%3D%252Fjournals%252F
 ## ClinicalKey
     https://auth.elsevier.com/ShibAuth/institutionLogin?appReturnURL=https%3A%2F%2Fwww.clinicalkey.com%2Fshibboleth%2F&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth
+## Heinonline
+    https://heinonline.org/HOL/oa/login?entityID=https://{IDP地址}/idp/shibboleth
