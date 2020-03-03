@@ -71,3 +71,5 @@
     https://auth.elsevier.com/ShibAuth/institutionLogin?appReturnURL=https%3A%2F%2Fwww.clinicalkey.com%2Fshibboleth%2F&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth
 ## Heinonline
     https://heinonline.org/HOL/oa/login?entityID=https://{IDP地址}/idp/shibboleth
+## 万方
+    https://shibboleth.wanfangdata.com.cn/Shibboleth.sso/Login?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%3A%2F%2Fshibboleth.wanfangdata.com.cn%2F
