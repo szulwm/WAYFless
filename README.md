@@ -73,3 +73,5 @@
     https://heinonline.org/HOL/oa/login?entityID=https://{IDP地址}/idp/shibboleth
 ## 万方
     https://shibboleth.wanfangdata.com.cn/Shibboleth.sso/Login?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%3A%2F%2Fshibboleth.wanfangdata.com.cn%2F
+## Jstor
+    https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&site=jstor&dest=%2F
