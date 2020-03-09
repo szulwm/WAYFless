@@ -77,4 +77,5 @@
     https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&site=jstor&dest=%2F
 ## Oxford Scholarship Online(牛津学术专著电子书)
     https://spoauth2.carsi.edu.cn/Shibboleth.sso/Login?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%3A%2F%2Fspoauth2.carsi.edu.cn%2Fapi%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Diresearch%26state%3Dcarisi-sp
-    
+## ACS
+    https://pubs.acs.org/action/ssostart?idp=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&redirectUri=https%3A%2F%2Fpubs.acs.org
