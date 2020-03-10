@@ -8,7 +8,7 @@
 
 &emsp;&emsp;本词条由深圳大学图书馆、香港中文大学(深圳)图书馆、清华大学图书馆共同维护。
 
-&emsp;&emsp;香港中文大学(深圳)图书馆经查阅文献发现，目前列表中收集的是SP端的WAYFless URL。还有一种IDP端的URL，可以通过构造相关参数来解决SP端不提供WAYFless URL的电子资源，参考文档为https://www.ukfederation.org.uk/library/uploads/Documents/WAYFlessGuidance.pdf。
+&emsp;&emsp;香港中文大学(深圳)图书馆经查阅文献发现，目前列表中收集的是SP端的WAYFless URL。还有一种IDP端的URL，可以通过构造相关参数来解决SP端不提供WAYFless URL的电子资源，参考文档为[WAYFlessGuidance.pdf](https://www.ukfederation.org.uk/library/uploads/Documents/WAYFlessGuidance.pdf)。
 
 # WAYFless Shibboleth URL List
 ## EBSCO
