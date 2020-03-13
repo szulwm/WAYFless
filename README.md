@@ -106,6 +106,8 @@ ACS_LOACTION参数可从shibboleth metadata或着电子数据商处获取。
     https://fsso.springer.com/federation/init?entityId=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&returnUrl=https%3A%2F%2Fmaterials.springer.com%2F
 ## Taylor & Francis E-books 
     https://www.taylorfrancis.com/start-session?idp=https://{IDP地址}/idp/shibboleth&redirectUri=https://www.taylorfrancis.com/
+## Taylor & Francis Journals
+    http://www.tandfonline.com/action/ssostart?idp=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&redirectUri=https%3A%2F%2Fwww.tandfonline.com%2F
 ## Web of Science
     https://www.webofknowledge.com/?auth=ShibbolethIdPForm&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%253A%252F%252Fwww.webofknowledge.com%252F%253FDestApp%253DUA&ShibFederation=ChineseFederation&DestApp=UA
 ## Wiley
