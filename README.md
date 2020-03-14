@@ -29,7 +29,7 @@
     https://IDPHOSTNAME/{SSO_LOCATION}?target=RESOURCE_LOCATION&
     shire={ACS_LOCATION}&
     providerId={PROV_ID}
-ACS_LOACTION参数可从shibboleth metadata或着电子数据商处获取。
+ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
 ### IdP-side WAYFless URL example with a target specified
     https://{IDP地址}/idp/profile/Shibboleth/SSO?target=https%3A%2F%2Fdl.acm.org%2F&shire=https%3A%2F%2Fdl.acm.org%2Faction%2FsamlACS&providerId=https%3A%2F%2Fdl.acm.org%2Fshibboleth
 
