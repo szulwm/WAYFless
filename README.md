@@ -2,7 +2,7 @@
 
 &emsp;&emsp;WAYFless 是一种通过将IDP地址组合在 URL中，避免读者在采用[Shibboleth](http://www.shibboleth.net/)认证时必须先选择自己所在机构的方法，省去了不同 SP界面 各不相同的复杂认证步骤。
 
-&emsp;&emsp;目前支持Shibboleth的数据库中提供WAYFless-URL的(使用时，请把URL中的“{IDP地址}”替换为本校的IDP地址，比如idp.xxx.edu.cn)如下所示。
+&emsp;&emsp;目前支持Shibboleth的数据库中提供WAYFless-URL的(使用时，请把URL中的“{IDP地址}”替换为本校的IDP地址，比如idp.xxx.edu.cn)[如下所示](#wayfless-shibboleth-url-list)。
 
 &emsp;&emsp;加入[CARSI](https://www.carsi.edu.cn/)联盟的各个学校均可使用此方式，方便读者使用。
 
@@ -19,12 +19,12 @@
     target=RESOURCE_LOCATION
 ### SP-side WAYFless URL example with a target specified
     https://sp.example.com/start-session?entityID=https://idp.example.com/idp/shibboleth&target=https://sp.example.com/some/webpage.html
-非标准的SP-side WAFYless UR需要向数据商获取，比如：
+非标准的SP-side WAFYless URL需要向数据商获取，比如：
 ###  SP-side WAYFless URL example
     http://search.ebscohost.com/login.aspx?authtype=ip,shib&custid={customer ID} 
 
 ## IdP-side WAYFless URL
-指向Idp提供者，既各大高校和机构。可以通过构造相关参数来解决SP端不提供WAYFless URL的电子资源。格式如下：
+指向Idp提供者，即各大高校和机构。可以通过构造相关参数来解决SP端不提供WAYFless URL的电子资源。格式如下：
 ### IdP-side WAYFless format
     https://IDPHOSTNAME/{SSO_LOCATION}?target=RESOURCE_LOCATION&
     shire={ACS_LOCATION}&
@@ -33,7 +33,7 @@ ACS_LOACTION参数可从shibboleth metadata或着电子数据商处获取。
 ### IdP-side WAYFless URL example with a target specified
     https://{IDP地址}/idp/profile/Shibboleth/SSO?target=https%3A%2F%2Fdl.acm.org%2F&shire=https%3A%2F%2Fdl.acm.org%2Faction%2FsamlACS&providerId=https%3A%2F%2Fdl.acm.org%2Fshibboleth
 
-## 选择那种WAYFless URL 建议遵循一下规则：
+## 选择哪种WAYFless URL 建议遵循以下规则：
 ### 优先选择标准格式的SP-side WAYFless URL
 ### 其次选择非标准的SP-side WAYFless URL
 ### 最后考虑IdP-side WAYFless URL
