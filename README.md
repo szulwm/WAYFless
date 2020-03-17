@@ -118,5 +118,5 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://onlinelibrary.wiley.com/action/ssostart?idp=https://{IDP地址}/idp/shibboleth&redirectUri=https://onlinelibrary.wiley.com/
 ## 万方
     https://shibboleth.wanfangdata.com.cn/Shibboleth.sso/Login?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%3A%2F%2Fshibboleth.wanfangdata.com.cn%2F
-## 维普中文期刊服务平台
-    http://qikan.cqvip.com/qikan/carsi/Authorize?entityid=https://{IDP地址}/idp/shibboleth
+## 重庆维普
+    http://qikan.cqvip.com/qikan/carsi/Authorize?entityid=https://{IDP地址}/idp/shibboleth    
