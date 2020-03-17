@@ -58,6 +58,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https://{IDP地址}/idp/shibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth
 ## ClinicalKey
     https://auth.elsevier.com/ShibAuth/institutionLogin?appReturnURL=https%3A%2F%2Fwww.clinicalkey.com%2Fshibboleth%2F&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth
+## De Gruyter
+    https://www.degruyter.com/applib/openathens?entityID=https://{IDP地址}/shibboleth&openAthens2Redirect=/view/db/akl
 ## EBSCO
 ### 方式1
     https://shibboleth.ebscohost.com/Shibboleth.sso/Login?SAMLDS=1&target=https%3A%2F%2Fshibboleth.ebscohost.com%2FShibAgent.aspx%3Fshib_returl%3Dhttps%253a%252f%252fsearch.ebscohost.com%252flogin.aspx%253fauthtype%253dshib%26IdpId%3D&entityID=https://{IDP地址}/idp/shibboleth&providerID=http://shibboleth.ebscohost.com
