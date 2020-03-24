@@ -103,7 +103,7 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://search.proquest.com/?accountid={account ID}
     account ID 需要向ProQuest获取
 ## Reaxys
-    https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&appReturnURL=https%3A%2F%2Fwww.reaxys.com%2F%23%2Fsearch%2Fquick
+    https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https://{IDP地址}/idp/shibboleth&appReturnURL=https%3A%2F%2Fwww.reaxys.com%2Fservices%2Foauth%2Fshibboleth-sso
 ## Royal Society of Chemistry
     https://www.rsc.org/rsc-id/account/checkfederatedaccess?instituteurl=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&returnurl=https%3A%2F%2Fpubs.rsc.org
 ## ScienceDirect
