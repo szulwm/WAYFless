@@ -92,8 +92,12 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://sp.nature.com/saml/login?idp=https://{IDP地址}/idp/shibboleth&targetUrl=https://www.nature.com/nature
 ## OVID
     https://openathens.ovid.com/secure-ssl/home.oa?idpselect=https://{IDP地址}/idp/shibboleth&entityID=https://{IDP地址}/idp/shibboleth&T=JS&CSC=y&PAGE=dblist&NEW
+## Oxford English Dictionary Online
+    https://shibboleth2sp.sams.oup.com/Shibboleth.sso/Login?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%3A%2F%2Fshibboleth2sp.sams.oup.com/shib%3Fdest=https://www.oed.com//SHIBBOLETH?dest=%2F
 ## Oxford Journals Collection
     https://shibboleth2sp.sams2.oup.com/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https://shibboleth2sp.sams2.oup.com/shib?dest=https%3A%2F%2Facademic.oup.com%2FSHIBBOLETH%3Fdest%3D%252Fjournals%252F
+## Oxford Reference Library
+    https://shibboleth2sp.sams.oup.com/Shibboleth.sso/Login?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%3A%2F%2Fshibboleth2sp.sams.oup.com/shib%3Fdest=http://www.oxfordreference.com/SHIBBOLETH?dest=%2F
 ## Oxford Scholarship Online(牛津学术专著电子书)
     https://spoauth2.carsi.edu.cn/Shibboleth.sso/Login?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%3A%2F%2Fspoauth2.carsi.edu.cn%2Fapi%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Diresearch%26state%3Dcarisi-sp
 ## ProQuest
