@@ -90,6 +90,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://spoauth2.carsi.edu.cn/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https%3A%2F%2Fspoauth2.carsi.edu.cn%2Fapi%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Dkeledge%26state%3DCARSI
 ## Nature
     https://sp.nature.com/saml/login?idp=https://{IDP地址}/idp/shibboleth&targetUrl=https://www.nature.com/nature
+## OSA
+    https://osapublishing.org/openathens.cfm?entity=https://{IDP地址}/idp/shibboleth
 ## OVID
     https://openathens.ovid.com/secure-ssl/home.oa?idpselect=https://{IDP地址}/idp/shibboleth&entityID=https://{IDP地址}/idp/shibboleth&T=JS&CSC=y&PAGE=dblist&NEW
 ## Oxford English Dictionary Online
