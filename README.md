@@ -88,6 +88,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&site=jstor&dest=%2F
 ## Keledge（可知）
     https://spoauth2.carsi.edu.cn/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https%3A%2F%2Fspoauth2.carsi.edu.cn%2Fapi%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Dkeledge%26state%3DCARSI
+## MeTeL教学资源平台
+    https://shibboleth.guodao.cn/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth
 ## Nature
     https://sp.nature.com/saml/login?idp=https://{IDP地址}/idp/shibboleth&targetUrl=https://www.nature.com/nature
 ## OSA
