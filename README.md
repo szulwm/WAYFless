@@ -47,6 +47,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://iam.atypon.com/action/ssostart?idp=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&redirectUri=%2F&targetSP=https%3A%2F%2Faip.scitation.org
 ## Annual Reviews
     https://www.annualreviews.org/action/ssostart?idp=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&redirectUri=%2F
+## BrillOnline（博睿学术资源在线平台）
+    https://shibboleth2sp.brillonline.nl/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https%3A%2F%2Fshibboleth2sp.brillonline.nl%2Fshib%3Fdest%3Dhttps%253A%252F%252Freferenceworks.brillonline.com%253A443%252FSHIBBOLETH%253Fdest%253Dhttps%25253A%25252F%25252Freferenceworks.brillonline.com
 ## CNKI
     https://fsso.cnki.net/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https://fsso.cnki.net/secure/default.aspx
 ## Cambridge
