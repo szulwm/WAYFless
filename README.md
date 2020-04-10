@@ -143,4 +143,6 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
 ## 万方
     https://shibboleth.wanfangdata.com.cn/Shibboleth.sso/Login?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%3A%2F%2Fshibboleth.wanfangdata.com.cn%2F
 ## 重庆维普
-    http://qikan.cqvip.com/qikan/carsi/Authorize?entityid=https://{IDP地址}/idp/shibboleth    
+    http://qikan.cqvip.com/qikan/carsi/Authorize?entityid=https://{IDP地址}/idp/shibboleth
+## 中华数字书苑（方正阿帕比）
+    https://spoauth2.carsi.edu.cn/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https%3A%2F%2Fspoauth2.carsi.edu.cn%2Fapi%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Dapabi%26state%3Dgxjc    
