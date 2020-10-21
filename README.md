@@ -132,6 +132,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&appReturnURL=http%3A%2F%2Fwww.scival.com%2F
 ## Scopus
     https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&appReturnURL=https%3A%2F%2Fwww.scopus.com%2F
+## SIAM（Society for Industrial and Applied Mathematics）
+    https://epubs.siam.org/action/ssostart?idp=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&redirectUri=/
 ## Springer Link
     https://fsso.springer.com/federation/init?entityId=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&returnUrl=https%3A%2F%2Flink.springer.com%2F
 ## Springer Materials
