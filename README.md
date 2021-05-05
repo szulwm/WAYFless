@@ -114,6 +114,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://projecteuclid.org/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https://projecteuclid.org/
 ## ProjectGate(全球科研项目数据库)
     https://spoauth2.carsi.edu.cn/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https%3A%2F%2Fspoauth2.carsi.edu.cn%2Fapi%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Dprojectgate%26state%3DCASWIZ
+## Project MUSE
+    https://muse.jhu.edu/wayf?eid=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth
 ## ProQuest
 ### 方式1
     https://shibboleth-sp.prod.proquest.com/Shibboleth.sso/DS?SAMLDS=1&target=https%3A%2F%2Fshibboleth-sp.prod.proquest.com%2FONE_SEARCH%2FPROD&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth
