@@ -156,6 +156,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://shibboleth2sp.sams.oup.com/Shibboleth.sso/Login?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%3A%2F%2Fshibboleth2sp.sams.oup.com/shib%3Fdest=https://www.universitypressscholarship.com/SHIBBOLETH?dest=%2F
 ## Web of Science
     https://www.webofknowledge.com/?auth=ShibbolethIdPForm&entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&target=https%253A%252F%252Fwww.webofknowledge.com%252F%253FDestApp%253DUA&ShibFederation=ChineseFederation&DestApp=UA
+## Westlaw Classic
+    https://signon.thomsonreuters.com/federation/CARSI?entityID=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&returnto=http%3A%2F%2Fnext.westlaw.com
 ## Wiley
     https://onlinelibrary.wiley.com/action/ssostart?idp=https://{IDP地址}/idp/shibboleth&redirectUri=https://onlinelibrary.wiley.com/
 ## 万方
