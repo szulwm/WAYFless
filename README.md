@@ -164,6 +164,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     http://qikan.cqvip.com/qikan/carsi/Authorize?entityid=https://{IDP地址}/idp/shibboleth
 ## 人大复印报刊资料
     https://spoauth2.carsi.edu.cn/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https%3A%2F%2Fspoauth2.carsi.edu.cn%2Fapi%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Drdfybk%26state%3Dpubrudmc
+## 新东方多媒体学习库
+    https://spoauth2.carsi.edu.cn/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https%3A%2F%2Fspoauth2.carsi.edu.cn%2Fapi%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Dxdf-library%26state%3Dnologin
 ## 易阅通
     https://www.cnpereading.com/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https%3A%2F%2Fwww.cnpereading.com%2Fsecure
 ## 中华数字书苑（方正阿帕比）
