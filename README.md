@@ -47,6 +47,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://iam.atypon.com/action/ssostart?idp=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&redirectUri=%2F&targetSP=https%3A%2F%2Faip.scitation.org
 ## Annual Reviews
     https://www.annualreviews.org/action/ssostart?idp=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&redirectUri=%2F
+## ASCE Library（美国土木工程师学会）
+    https://ascelibrary.org/action/ssostart?idp=https%3A%2F%2F{IDP地址}%2Fidp%2Fshibboleth&redirectUri=%2F
 ## Brill电子书刊平台(博睿)
     https://brill.com/saml/login?idp=https://{IDP地址}/idp/shibboleth
 ## BrillOnline（博睿学术资源在线平台）
