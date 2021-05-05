@@ -53,6 +53,8 @@ ACS_LOACTION参数可从shibboleth metadata或者电子数据商处获取。
     https://brill.com/saml/login?idp=https://{IDP地址}/idp/shibboleth
 ## BrillOnline（博睿学术资源在线平台）
     https://shibboleth2sp.brillonline.nl/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https%3A%2F%2Fshibboleth2sp.brillonline.nl%2Fshib%3Fdest%3Dhttps%253A%252F%252Freferenceworks.brillonline.com%253A443%252FSHIBBOLETH%253Fdest%253Dhttps%25253A%25252F%25252Freferenceworks.brillonline.com
+## Britannica Academic（大英百科学术版）
+    https://shibboleth.eb.com/shibboleth.sso/DS?SAMLDS=1&target=/edugate/bol&entityID=https://{IDP地址}/idp/shibboleth
 ## CNKI
     https://fsso.cnki.net/Shibboleth.sso/Login?entityID=https://{IDP地址}/idp/shibboleth&target=https://fsso.cnki.net/secure/default.aspx
 ## Cambridge
